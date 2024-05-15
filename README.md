@@ -1,16 +1,15 @@
 # cookie_game
 
-A new Flutter project.
+A Flutter project inspired by the Cookie Clicker Game! I created this as a challenge to myself to see how well I understood how to create models, pages, providers, and functionality in Dart to make a working clicker game in Flutter. If I return to this in the future, I will add a clock which allows the purchased factories to raise your total cookie count by their production values.
 
-## Getting Started
+# What I Learned/Demonstrated:
+- Basics of Dart Syntax for Flutter Apps
+- Basics of creating custom models and pages in Dart
+- Riverpod as a State Management Solution
+- Navigation to different pages
 
-This project is a starting point for a Flutter application.
+# How to Run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download and Unzip the file.
+2. Open the terminal at the unzipped folder.
+3. Enter flutter run
